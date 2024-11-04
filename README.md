@@ -3,7 +3,7 @@
 Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
 
 ## Sommario 📋
-- [Progetto 1: SIEM Implementation in Home Lab](#progetto-1-siem-implementation-in-home-lab)
+- [Progetto 1: SIEM Implementation in Home Lab](https://github.com/RosarioVeneruso/Detection-Lab)
 - [Progetto 2: Automazione di Incident Response con Bash](#progetto-2-automazione-di-incident-response-con-bash)
 - [Progetto 3: Vulnerability Assessment di una Rete Locale](#progetto-3-vulnerability-assessment-di-una-rete-locale)
 - [Progetto 4: Threat Intelligence Dashboard su Splunk](#progetto-4-threat-intelligence-dashboard-su-splunk)
