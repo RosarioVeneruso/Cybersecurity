@@ -21,16 +21,15 @@ Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo reposito
 ## Progetto 2: Wazuh 🔍
 **Descrizione**: Implementazione di diverse funzioni di monitoraggio degli endpoint e dell'attività di rete.
 - **Strumenti Utilizzati**: Wazuh, VirtualBox, Windows, Ubuntu.
-- **Obiettivo**: Integrazione delle seguenti funzioni: File Integrity Monitoring,.
-- **Risultati**: Rilevazione modifiche all'interno del file system,.
+- **Obiettivo**: Integrazione delle seguenti funzioni: File Integrity Monitoring, Network Monitoring, Rilevazione Vulnerabilities, Rilevazione e blocco attacchi Brute Force SSH, Rilevazione file malevoli utilizzando VirusTotal.
 
 
 ---
 
 ## Progetto 3: Splunk 📊
-**Descrizione**: Creazione di una dashboard di **threat intelligence** su Splunk per monitorare indicatori di compromissione (IoC).
+**Descrizione**: Creazione di una dashboard di **Threat Intelligence** su Splunk per monitorare indicatori di compromissione (IoC).
 - **Strumenti Utilizzati**: Splunk
-- **Obiettivo**: Raccogliere feed di minacce e visualizzare gli indicatori di compromissione.
+- **Obiettivo**: Raccogliere feed di minacce e visualizzare gli indicatori di compromissione .
 - **Risultati**: Dashboard configurata per visualizzare e correlare dati di minacce provenienti da fonti esterne.
 
 ---
