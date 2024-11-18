@@ -10,7 +10,7 @@ Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo reposito
 
 ---
 
-## Progetto 1: SIEM Implementation in Home Lab 🛡️
+## Progetto 1: Detection Lab - ELK Stack 🛡️
 **Descrizione**: Configurazione di un ambiente di laboratorio con **ELK Stack** per simulare e rilevare attacchi informatici.
 - **Strumenti Utilizzati**: Vultr, Drawio, Elasticsearch, Kibana, Ubuntu, Windows, OsTicket, Mythic, Sysmon.
 - **Obiettivo**: Creare un sistema per monitorare eventi di sicurezza e simulare attacchi di brute force su SSH.
