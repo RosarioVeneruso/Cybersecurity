@@ -3,10 +3,9 @@
 Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
 
 ## Sommario 📋
-- [Progetto 1: SIEM Implementation in Home Lab](https://github.com/RosarioVeneruso/Detection-Lab)
-- [Progetto 2: Automazione di Incident Response con Bash](#progetto-2-automazione-di-incident-response-con-bash)
-- [Progetto 3: Vulnerability Assessment di una Rete Locale](#progetto-3-vulnerability-assessment-di-una-rete-locale)
-- [Progetto 4: Threat Intelligence Dashboard su Splunk](#progetto-4-threat-intelligence-dashboard-su-splunk)
+- [Progetto 1: Detection Lab - ELK Stack](https://github.com/RosarioVeneruso/Detection-Lab)
+- [Progetto 2: Wazuh](#progetto-2-automazione-di-incident-response-con-bash)
+- [Progetto 3: Splunk](#progetto-3-vulnerability-assessment-di-una-rete-locale)
 - [Contatti](#contatti)
 
 ---
@@ -20,7 +19,7 @@ Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo reposito
 ---
 
 ## Progetto 2: Wazuh 🔍
-**Descrizione**: Valutazione delle vulnerabilità di una rete locale utilizzando strumenti di scansione.
+**Descrizione**: Implementazione di diverse funzioni di monitoraggio degli endpoint e dell'attività di rete.
 - **Strumenti Utilizzati**: Wazuh, VirtualBox, Windows, Ubuntu.
 - **Obiettivo**: Integrazione delle seguenti funzioni: File Integrity Monitoring,.
 - **Risultati**: Rilevazione modifiche all'interno del file system,.
@@ -28,12 +27,11 @@ Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo reposito
 
 ---
 
-## Progetto 3: Threat Intelligence Dashboard su Splunk 📊
+## Progetto 3: Splunk 📊
 **Descrizione**: Creazione di una dashboard di **threat intelligence** su Splunk per monitorare indicatori di compromissione (IoC).
-- **Strumenti Utilizzati**: Splunk, Python.
+- **Strumenti Utilizzati**: Splunk
 - **Obiettivo**: Raccogliere feed di minacce e visualizzare gli indicatori di compromissione.
 - **Risultati**: Dashboard configurata per visualizzare e correlare dati di minacce provenienti da fonti esterne.
-- **Demo**: [Video dimostrativo della Dashboard](https://www.youtube.com/link-al-video)
 
 ---
 
@@ -44,4 +42,3 @@ Se desideri discutere di questi progetti o collaborare, puoi contattarmi tramite
 
 ---
 
-Grazie per aver visitato i miei progetti! Spero che possano dimostrare le mie capacità e la mia passione per la cybersecurity.
