@@ -1,11 +1,11 @@
 # Cybersecurity Projects 🚨🔒
 
-Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
+Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
 
 ## Sommario 📋
 - [Progetto 1: Detection Lab - ELK Stack](https://github.com/RosarioVeneruso/Cybersecurity/tree/97931e8822ee7811e837b3e260adc7c636df0656/Detection-lab)
-- [Progetto 2: Wazuh](#progetto-2-automazione-di-incident-response-con-bash)
-- [Progetto 3: Splunk](#progetto-3-vulnerability-assessment-di-una-rete-locale)
+- [Progetto 2: Wazuh](#progetto-2-Wazuh)
+- [Progetto 3: Splunk](#progetto-3-Splunk)
 - [Contatti](#contatti)
 
 ---
@@ -27,12 +27,16 @@ Benvenuto nella mia collezione di progetti di **cybersecurity**! Questo reposito
 ---
 
 ## Progetto 3: Splunk 📊
-**Descrizione**: Creazione di una dashboard di **Threat Intelligence** su Splunk per monitorare indicatori di compromissione (IoC).
+**Descrizione**: Creazione di diverse attività di rilevazione di eventi e di analisi dei log.
 - **Strumenti Utilizzati**: Splunk
-- **Obiettivo**: Raccogliere feed di minacce e visualizzare gli indicatori di compromissione .
-- **Risultati**: Dashboard configurata per visualizzare e correlare dati di minacce provenienti da fonti esterne.
+
 
 ---
+
+## Progetto 4: Miscellaneous
+**Descrizione**: progetti spot legati sempre al mondo della Cybersecurity
+---
+
 
 ## Contatti 📧
 Se desideri discutere di questi progetti o collaborare, puoi contattarmi tramite:
