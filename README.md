@@ -14,27 +14,27 @@ Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo reposito
 **Descrizione**: Configurazione di un ambiente di laboratorio con **ELK Stack** per simulare e rilevare attacchi informatici.
 - **Strumenti Utilizzati**: Vultr, Drawio, Elasticsearch, Kibana, Ubuntu, Windows, OsTicket, Mythic, Sysmon.
 - **Obiettivo**: Creare un sistema per monitorare eventi di sicurezza e simulare attacchi di brute force su SSH.
-- **Risultati**: Configurate regole di correlazione per rilevare attività sospette, creato dashboard personalizzate per la visualizzazione dei dati, creazione di ticket associati agli alert.
+- **Risultati**: Creazione di una VPC con macchine virtuali destinate a formare l'infrastruttura difensiva. Configurate regole di correlazione per rilevare attività sospette, creato dashboard personalizzate per la visualizzazione dei dati, creazione di ticket associati agli alert.
 
 ---
 
 ## Progetto 2: Wazuh 🔍
 **Descrizione**: Implementazione di diverse funzioni di monitoraggio degli endpoint e dell'attività di rete.
 - **Strumenti Utilizzati**: Wazuh, VirtualBox, Windows, Ubuntu.
-- **Obiettivo**: Integrazione delle seguenti funzioni: File Integrity Monitoring, Network Monitoring, Rilevazione Vulnerabilities, Rilevazione e blocco attacchi Brute Force SSH, Rilevazione file malevoli utilizzando VirusTotal.
+- **Obiettivo**: Implementazione delle seguenti funzioni: File Integrity Monitoring, Network Monitoring, Rilevazione Vulnerabilità, Rilevazione dell'esecuzione di comandi malevoli,Rilevazione e blocco attacchi Brute Force SSH, Rilevazione file malevoli utilizzando VirusTotal.
 
 
 ---
 
 ## Progetto 3: Splunk 📊
 **Descrizione**: Creazione di diverse attività di rilevazione di eventi e di analisi dei log.
-- **Strumenti Utilizzati**: Splunk
-
+- **Strumenti Utilizzati**: Splunk, Arduino
 
 ---
 
 ## Progetto 4: Miscellaneous
 **Descrizione**: progetti spot legati sempre al mondo della Cybersecurity
+
 ---
 
 
