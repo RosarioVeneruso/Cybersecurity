@@ -3,7 +3,7 @@
 Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
 
 ## Sommario 📋
-- [Progetto 1: Detection Lab - ELK Stack](https://github.com/RosarioVeneruso/Cybersecurity/tree/97931e8822ee7811e837b3e260adc7c636df0656/Detection-lab)
+- [Progetto 1: Detection Lab - ELK Stack](https://github.com/RosarioVeneruso/Detection-lab/tree/main)
 - [Progetto 2: Wazuh](#progetto-2-Wazuh-)
 - [Progetto 3: Splunk](#progetto-3-Splunk-)
 - [Contatti](#contatti)
