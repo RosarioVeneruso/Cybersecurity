@@ -20,8 +20,8 @@ Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo reposito
 
 ## Progetto 2: Wazuh 🔍
 **Descrizione**: Implementazione di diverse funzioni di monitoraggio degli endpoint e dell'attività di rete.
-- **Strumenti Utilizzati**: Wazuh, VirtualBox, Windows, Ubuntu.
-- **Obiettivo**: Implementazione delle seguenti funzioni: File Integrity Monitoring, Network Monitoring, Rilevazione Vulnerabilità, Rilevazione dell'esecuzione di comandi malevoli,Rilevazione e blocco attacchi Brute Force SSH, Rilevazione file malevoli utilizzando VirusTotal.
+- **Strumenti Utilizzati**: Wazuh, VirtualBox, Windows, Ubuntu, Suricata.
+- **Funzioni implementate**: File Integrity Monitoring, Network Monitoring, Rilevazione Vulnerabilità, Rilevazione dell'esecuzione di comandi malevoli,Rilevazione e blocco attacchi Brute Force SSH, Rilevazione file malevoli utilizzando VirusTotal.
 
 
 ---
@@ -33,7 +33,7 @@ Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo reposito
 ---
 
 ## Progetto 4: Miscellaneous
-**Descrizione**: progetti spot legati sempre al mondo della Cybersecurity
+**Descrizione**: Progetti "spot" legati sempre al mondo della Cybersecurity.
 
 ---
 
