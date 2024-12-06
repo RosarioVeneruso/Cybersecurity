@@ -3,7 +3,7 @@
 Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
 
 
-**Nel presente repository trovate la descrizione di ogni progetto, per vederne i dettagli e la documentazione lliccare sul nome del progetto nel sommario.**
+**Nel presente repository trovate la descrizione di ogni progetto, per vederne i dettagli e la documentazione cliccare sul nome del progetto all'interno del sommario.**
 
 
 
