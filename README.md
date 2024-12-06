@@ -7,7 +7,7 @@ Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo reposito
 - [Progetto 2: Wazuh](https://github.com/RosarioVeneruso/Wazuh/tree/main)
 - [Progetto 3: Splunk](https://github.com/RosarioVeneruso/Splunk/tree/main)
 - [Progetto 4: Miscellaneous](https://github.com/RosarioVeneruso/Splunk/tree/main)
-- [Contatti](#contatti)
+- [Contatti](#contatti-)
 
 ---
 
