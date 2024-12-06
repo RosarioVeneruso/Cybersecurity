@@ -2,7 +2,7 @@
 
 Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo repository include una serie di progetti che ho realizzato per sviluppare e dimostrare le mie competenze nella protezione delle infrastrutture IT, analisi di log, e automazione dei processi di security.
 
-<div align="center"> Cliccare sul nome del progetto nel sommario per vedere la documentazione ed i dettagli!</div>
+**Cliccare sul nome del progetto nel sommario per vedere la documentazione ed i dettagli!**
 
 ## Sommario 📋
 - [Progetto 1: Detection Lab - ELK Stack](https://github.com/RosarioVeneruso/Detection-lab/tree/main)
