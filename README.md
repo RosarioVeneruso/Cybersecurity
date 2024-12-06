@@ -33,13 +33,13 @@ Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo reposito
 ---
 
 ## Progetto 3: Splunk 📊
-**Descrizione**: Creazione di diverse attività di rilevazione di eventi e di analisi dei log.
+**Descrizione**: Creazione di diverse attività di rilevazione di eventi e di analisi dei log tramite **Splunk**.
 - **Strumenti Utilizzati**: Splunk, Arduino
 
 ---
 
 ## Progetto 4: Miscellaneous
-**Descrizione**: Progetti "spot" legati sempre al mondo della Cybersecurity.
+**Descrizione**: Questa repository raccoglie una serie di progetti ed esercizi indipendenti, focalizzati su diversi aspetti del mondo Cyber. Ogni elemento è pensato come uno spunto pratico e slegato dagli altri.
 
 ---
 
