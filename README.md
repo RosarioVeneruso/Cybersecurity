@@ -47,7 +47,7 @@ Benvenuto nella mia collezione di progetti di **Cybersecurity**! Questo reposito
 ## Contatti 📧
 Se desideri discutere di questi progetti o collaborare, puoi contattarmi tramite:
 - **Email**: rosario.veneruso89@gmail.com
-- **LinkedIn**: [Il mio profilo LinkedIn](linkedin.com/in/rosario-veneruso-cybersecurityanalist)
+- **LinkedIn**: [Il mio profilo LinkedIn](https://www.linkedin.com/in/rosario-veneruso-cybersecurityanalist/)
 
 ---
 
